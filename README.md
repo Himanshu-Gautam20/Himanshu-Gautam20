@@ -1,6 +1,6 @@
-👋 Hi, I’m Himanshu Gautam — Full-Stack Developer & Software Developer
+👋 Hi, I’m Himanshu Gautam — Full-Stack Developer & Software Developer & Electrical Engineer
 
-🛠️ HTML | CSS | JavaScript | React.js | Node.js | DSA   
+🛠️ HTML | CSS | JavaScript | React.js | Node.js | DSA  | MATLAB | Simulink
 
 🌟Passionate about technology and software development  
 
